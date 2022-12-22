@@ -1,6 +1,6 @@
 creatoraccounts = {
 	["genta"] = true,
-	["FullOfSTDs"] = true,
+	["d2ot"] = true,
 	["F0XTR0XX"] = true,
 	["TypicalHB"] = true
 }
