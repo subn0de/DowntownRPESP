@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FOXTROXHACKS/ElToro/main/Hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/subn0de/Roblox_Exploits/main/ElToroSUK.lua"))()
